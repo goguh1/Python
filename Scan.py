@@ -11,7 +11,7 @@ import os
 from datetime import datetime
 
 # Directory to be scanned
-f1 = '/Users/hugog/Documents/Python/Week3'
+f1 = ''
 
 obj = os.scandir(f1)
 
