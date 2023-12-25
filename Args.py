@@ -16,7 +16,7 @@ parser.add_argument("-v", "--verbose", action="store_true", help="Print each lin
 # Parse the command line arguments
 args = parser.parse_args()
 
-args.file = '/Users/hugog/Documents/Python/COMP467/example.txt'
+args.file = ''
 
 # Check if the "file" argument is provided
 if args.file:
