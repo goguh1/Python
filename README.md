@@ -1,3 +1,2 @@
 # Python
-
-# Python Weekly Assignment
+Weekly Assignment
