@@ -4,7 +4,7 @@
 
 import os
 
-f1 = "/Users/hugog/Documents/Python/COMP467/Lession4/folderexample.txt"
+f1 = ""
 
 # Read the text file
 with open(f1, 'r') as file:
